@@ -25,7 +25,7 @@ console.log(ranbir.runsFamilyBusiness());
 console.log(ranbir.cookTraditionalDish());
 
 // this is inheritance the grandchild has all the access to the methods of the grandfather.
-// In javascript everthing inherits object  => evernthing is an object in javascript.
+// In javascript everthing inherits object  => everything  is an object in javascript.
 
 
 Array.prototype.last = function () {
@@ -37,7 +37,7 @@ console.log(["Shravan", "Shravani"].last());
 
 
 Array.prototype.maptwo = function () {
-    
+
 }
 
 
